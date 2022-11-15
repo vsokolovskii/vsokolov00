@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a student and Red Hat intern
+- 👋 Hi, I’m a student at BUT
 - 👀 I’m interested in programming, cooking, computer games and yoga
 - 🌱 I’m currently learning Machine learning concepts and cloud technologies
 - 📫 How to reach me https://www.linkedin.com/in/vladislav-sokolovskii-93a80b17a/
